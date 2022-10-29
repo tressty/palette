@@ -32,6 +32,7 @@ purple    = "#C792EA"
 magenta   = "#cc76e9"
 gray      = "#717CB4"
 white     = "#E2E2E2"
+black     = "#090B10"
 
 [additional]
 moon_light     = "#aec8ff"
