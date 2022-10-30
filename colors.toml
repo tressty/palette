@@ -26,13 +26,15 @@ cyan      = "#89DDFF"
 yellow    = "#FFCB6B"
 orange    = "#F78C6C"
 red       = "#F07178"
-error     = "#ff5370"
 pink      = "#FF9CAC"
 purple    = "#C792EA"
 magenta   = "#cc76e9"
 gray      = "#717CB4"
 white     = "#E2E2E2"
 black     = "#090B10"
+
+error     = "#ff5370"
+warning   = "#dcac2c"
 
 [additional]
 moon_light     = "#aec8ff"
@@ -44,7 +46,6 @@ pale_black     = "#171825"
 
 vermilion    = "#ff5a49"
 trident_gold = "#ffcc00"
-dark_yellow  = "#dcac2c"
 
 [toxic]
 plum    = "#9b117b"
