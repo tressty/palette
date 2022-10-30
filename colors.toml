@@ -4,13 +4,12 @@
 background           = "#0F111A"
 foreground           = "#8F93A2"
 text                 = "#4B526D"
-selection_background = "#717CB480"
+selection_background = "#1A1C25"
 selection_foreground = "#FFFFFF"
 buttons              = "#191A21"
 second_background    = "#181A1F"
 disabled             = "#464B5D"   #include comments
 contrast             = "#090B10"
-active               = "#1A1C25"
 border               = "#171825" # pale_black
 highlight            = "#1F2233"
 tree                 = "#717CB430"
