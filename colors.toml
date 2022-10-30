@@ -1,24 +1,25 @@
 # Based on https://material-theme.com/docs/reference/color-palette/
 
 [main]
-background           = "#0F111A"
-foreground           = "#8F93A2"
-text                 = "#4B526D"
-active_background    = "#1A1C25"
-active_foreground    = "#FFFFFF"
-buttons              = "#191A21"
-second_background    = "#181A1F"
-disabled             = "#464B5D"   #include comments
-contrast             = "#090B10"
-border               = "#171825" # pale_black
-highlight            = "#1F2233"
-second_highlight     = "#31353e"
-tree                 = "#717CB430"
-notifications        = "#090B10"
-accent               = "#84ffff"
-excluded             = "#292D3E"
+background        = "#0F111A"
+foreground        = "#8F93A2"
+text              = "#4B526D"
+active_background = "#1A1C25"
+active_foreground = "#FFFFFF"
+buttons           = "#191A21"
+second_background = "#181A1F"
+disabled          = "#464B5D"   #include comments
+contrast          = "#090B10"
+border            = "#171825"   # pale_black
+highlight         = "#1F2233"
+second_highlight  = "#31353e"
+notifications     = "#090B10"
+accent            = "#84ffff"
+excluded          = "#292D3E"
+error             = "#ff5370"
+warning           = "#dcac2c"
 
-[common]
+[general]
 green     = "#C3E88D"
 turquoise = "#80CBC4"
 blue      = "#82AAFF"
@@ -33,9 +34,6 @@ gray      = "#717CB4"
 white     = "#E2E2E2"
 black     = "#090B10"
 
-error     = "#ff5370"
-warning   = "#dcac2c"
-
 [additional]
 moon_light     = "#aec8ff"
 pale_turquoise = "#acddd9"
@@ -43,9 +41,7 @@ pale_green     = "#d8f0b5"
 sand           = "#ffdd9f"
 cantaloupe     = "#fab49f"
 pale_black     = "#171825"
-
-vermilion    = "#ff5a49"
-gold         = "#ffcc00"
+vermilion      = "#ff5a49"
 
 [toxic]
 plum    = "#9b117b"
