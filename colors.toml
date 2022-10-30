@@ -12,6 +12,7 @@ disabled             = "#464B5D"   #include comments
 contrast             = "#090B10"
 border               = "#171825" # pale_black
 highlight            = "#1F2233"
+second_highlight     = "#31353e"
 tree                 = "#717CB430"
 notifications        = "#090B10"
 accent               = "#84ffff"
